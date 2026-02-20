@@ -38,7 +38,7 @@ I'm a Software Engineer focused on building high-performance applications. Wheth
 
 <p align="left">
 <a href="https://www.linkedin.com/in/christiannbernardi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
-<a href="https://www.instagram.com/chris041_/" target="_blank"<img src="https://skillicons.dev/icons?i=instagram" /></a> 
+<a href="https://www.instagram.com/chris041_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a> 
 <a href="https://github.com/ChristianBernard/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="mailto:christian.bernardii4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
