@@ -6,6 +6,13 @@ I'm a Software Engineer focused on building high-performance applications. Wheth
 
 ---
 
+## 🐍 Contribution Maze
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChristianBernard/ChristianBernard/output/github-contribution-grid-snake-dark.svg" alt="Snake Maze Animation" width="100%" />
+</p>
+
+---
+
 ## ⚡ Quick Bits About Me
 
 * 💻 **Development:** I build scalable solutions with a focus on clean code and great UX.
@@ -22,14 +29,6 @@ I'm a Software Engineer focused on building high-performance applications. Wheth
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,php,mysql,laravel,gradle,wordpress,nextjs,nodejs,nestjs,postgres,docker,git,vscode" />
   </a>
-</p>
-
----
-
-## 📊 Contribution Graph (Snake Edition)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChristianBernard/ChristianBernard/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
