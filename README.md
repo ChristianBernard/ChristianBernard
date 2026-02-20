@@ -1,4 +1,4 @@
-# Hi, there! I'm Christian 🎸🚀
+# Hi! I'm Christian 🚀
 
 ### Software Engineer | Full Stack Developer | Guitarist & Tech Enthusiast
 
@@ -20,7 +20,7 @@ I'm a Software Engineer focused on building high-performance applications. Wheth
 ### Languages, Frameworks & Infrastructure
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,postgres,mongodb,docker,aws,git,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,php,mysql,laravel,gradle,wordpress,nextjs,nodejs,nestjs,postgres,docker,git,vscode" />
   </a>
 </p>
 
@@ -37,10 +37,10 @@ I'm a Software Engineer focused on building high-performance applications. Wheth
 ## 💬 Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/christiannbernardi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://www.instagram.com/chris041_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-<a href="https://github.com/ChristianBernard/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/christiannbernardi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
+<a href="https://www.instagram.com/chris041_/" target="_blank"<img src="https://skillicons.dev/icons?i=instagram" /></a> 
+<a href="https://github.com/ChristianBernard/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="mailto:christian.bernardii4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
