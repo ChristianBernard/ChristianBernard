@@ -9,7 +9,7 @@ I'm a Software Engineer focused on building high-performance applications. Wheth
 ## 📊 My Dynamic Dev Dashboard ✨
 
 <p align="center">
-  <img src="https://github.com/ChristianBernard/ChristianBernard/blob/output/metrics.svg" alt="Christian's GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/ChristianBernard/ChristianBernard/output/metrics.svg" alt="Christian's GitHub Metrics" />
 </p>
 
 ---
