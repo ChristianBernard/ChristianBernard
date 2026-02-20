@@ -1,0 +1,39 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" 
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: activity, community, repositories, metadata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_threshold: 0%
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_skipped: "Jupyter Notebook,CSS,HTML"
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_sections: time, languages, editors, os
+          plugin_topics: yes
+          plugin_topics_limit: 10
+          plugin_topics_mode: icons
+          config_timezone: America/Sao_Paulo
+          config_padding: 0%
+          config_background: "#161b22"
+          config_display: columns
