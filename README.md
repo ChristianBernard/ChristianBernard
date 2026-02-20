@@ -6,9 +6,10 @@ I'm a Software Engineer focused on building high-performance applications. Wheth
 
 ---
 
-## 🐍 Contribution Maze
+## 📊 My Dynamic Dev Dashboard ✨
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ChristianBernard/ChristianBernard/output/github-contribution-grid-snake-dark.svg" alt="Snake Maze Animation" width="100%" />
+  <img src="https://github.com/ChristianBernard/ChristianBernard/blob/output/metrics.svg" alt="Christian's GitHub Metrics" />
 </p>
 
 ---
