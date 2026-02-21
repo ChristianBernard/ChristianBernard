@@ -6,7 +6,7 @@ I'm a Software Engineer focused on building high-performance applications. Wheth
 
 ---
 
-## 📊 My Dynamic Dev Dashboard ✨
+##  PACMANN
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristianBernard/ChristianBernard/output/pacman-contribution-graph-dark.svg">
