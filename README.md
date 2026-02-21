@@ -29,7 +29,7 @@ I'm a Software Engineer focused on building high-performance applications. I bel
 ### Languages, Frameworks & Infrastructure
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,php,mysql,laravel,gradle,wordpress,nextjs,nodejs,nestjs,postgres,docker,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,php,mysql,laravel,gradle,wordpress,nextjs,nodejs,nestjs,npm,postgres,docker,git,vscode" />
   </a>
 </p>
 
