@@ -8,9 +8,11 @@ I'm a Software Engineer focused on building high-performance applications. Wheth
 
 ## 📊 My Dynamic Dev Dashboard ✨
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChristianBernard/ChristianBernard/output/github-metrics.svg" alt="Metrics" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristianBernard/ChristianBernard/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristianBernard/ChristianBernard/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ChristianBernard/ChristianBernard/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
